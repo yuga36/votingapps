@@ -6,7 +6,7 @@ html(lang="en")
     meta(name="viewport", content="width=device-width, initial-scale=1")
     meta(name="Node.js Voting App", content="")
     meta(name="Stephen Mayeux", content="")
-    title yuga36 Voting App
+    title Stephen's Full Stack Voting App
     // Bootstrap core CSS and custom styles
     link(href="/stylesheets/bootstrap.css", rel="stylesheet")
     link(href="/stylesheets/style.css", rel="stylesheet")
@@ -19,7 +19,7 @@ html(lang="en")
             span.icon-bar
             span.icon-bar
             span.icon-bar
-          a.navbar-brand(href="/") yuga36 App!
+          a.navbar-brand(href="/") Stephen's Voting App!
         #navbar.navbar-collapse.collapse
           form.navbar-form.navbar-right(method='post', action='/', enctype='multipart/form-data')
             if !user

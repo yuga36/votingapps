@@ -3,7 +3,7 @@ extends layout
 block content
   .jumbotron
     .container
-      h1.Testing votingapp!
+      h1.intro Your Voice Is Heard!
       p.intro
         | Think about it for a second. When tough decisions and serious conflicts arise, people always put it to a vote. Quickly create polls and let the voice of the people be heard.
       p
